@@ -6,7 +6,7 @@
 <body>
     <main>
         <table cellspacing="0" cellpadding="5" border="1">
-            <thead>
+            <thead height="40">
                 <td width="200">
                     Data Structure
                 </td>
@@ -35,7 +35,7 @@
                 <td>Deletion</td>
                 <td>&nbsp;</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td>Array</td>
                 <td>Θ(1)</td>
                 <td>Θ(n)</td>
@@ -47,7 +47,7 @@
                 <td>O(n)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="Stack/ArrayStack.py">Stack</a></td>
                 <td>Θ(n)</td>
                 <td>Θ(n)</td>
@@ -59,7 +59,7 @@
                 <td>O(1)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="Queue/ArrayQueue.py">Queue</a></td>
                 <td>Θ(n)</td>
                 <td>Θ(n)</td>
@@ -71,7 +71,7 @@
                 <td>O(1)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="LinkedList/doubly_linked_list.py">Linked List</a></td>
                 <td>Θ(n)</td>
                 <td>Θ(n)</td>
@@ -83,9 +83,7 @@
                 <td>O(1)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
-            </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="Hash-Table/hash_map.py">Hash Table</a></td>
                 <td>&nbsp;</td>
                 <td>Θ(1)</td>
@@ -97,7 +95,7 @@
                 <td>O(n)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="Binary-Search-Tree/binary_search_tree.py">Binary Search Tree</a></td>
                 <td>Θ(logn)</td>
                 <td>Θ(logn)</td>
@@ -109,7 +107,7 @@
                 <td>O(n)</td>
                 <td>O(n)</td>
             </tr>
-            <tr>
+            <tr height="40">
                 <td><a href="Heap/heap.py">Heap</a></td>
                 <td>Θ(1)</td>
                 <td>&nbsp;</td>
