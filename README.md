@@ -37,10 +37,10 @@
             </tr>
             <tr>
                 <td>Array</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(n)</td>
-                <td>&#952;(n)</td>
-                <td>&#952;(n)</td>
+                <td>Θ(1)</td>
+                <td>Θ(n)</td>
+                <td>Θ(n)</td>
+                <td>Θ(n)</td>
                 <td>O(1)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
@@ -49,10 +49,10 @@
             </tr>
             <tr>
                 <td><a href="Stack/ArrayStack.py">Stack</a></td>
-                <td>&#952;(n)</td>
-                <td>&#952;(n)</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(1)</td>
+                <td>Θ(n)</td>
+                <td>Θ(n)</td>
+                <td>Θ(1)</td>
+                <td>Θ(1)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
                 <td>O(1)</td>
@@ -61,10 +61,10 @@
             </tr>
             <tr>
                 <td><a href="Queue/ArrayQueue.py">Queue</a></td>
-                <td>&#952;(n)</td>
-                <td>&#952;(n)</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(1)</td>
+                <td>Θ(n)</td>
+                <td>Θ(n)</td>
+                <td>Θ(1)</td>
+                <td>Θ(1)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
                 <td>O(1)</td>
@@ -73,10 +73,10 @@
             </tr>
             <tr>
                 <td><a href="LinkedList/doubly_linked_list.py">Linked List</a></td>
-                <td>&#952;(n)</td>
-                <td>&#952;(n)</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(1)</td>
+                <td>Θ(n)</td>
+                <td>Θ(n)</td>
+                <td>Θ(1)</td>
+                <td>Θ(1)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
                 <td>O(1)</td>
@@ -88,9 +88,9 @@
             <tr>
                 <td><a href="Hash-Table/hash_map.py">Hash Table</a></td>
                 <td>&nbsp;</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(1)</td>
-                <td>&#952;(1)</td>
+                <td>Θ(1)</td>
+                <td>Θ(1)</td>
+                <td>Θ(1)</td>
                 <td>&nbsp;</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
@@ -99,10 +99,10 @@
             </tr>
             <tr>
                 <td><a href="Binary-Search-Tree/binary_search_tree.py">Binary Search Tree</a></td>
-                <td>&#952;(logn)</td>
-                <td>&#952;(logn)</td>
-                <td>&#952;(logn)</td>
-                <td>&#952;(logn)</td>
+                <td>Θ(logn)</td>
+                <td>Θ(logn)</td>
+                <td>Θ(logn)</td>
+                <td>Θ(logn)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
                 <td>O(n)</td>
@@ -111,10 +111,10 @@
             </tr>
             <tr>
                 <td><a href="Heap/heap.py">Heap</a></td>
-                <td>&#952;(1)</td>
+                <td>Θ(1)</td>
                 <td>&nbsp;</td>
-                <td>&#952;(logn)</td>
-                <td>&#952;(logn)</td>
+                <td>Θ(logn)</td>
+                <td>Θ(logn)</td>
                 <td>O(1)</td>
                 <td>&nbsp;</td>
                 <td>O(logn)</td>
