@@ -1,9 +1,9 @@
 from doubly_linked_list import DoublyLinkedList
 
 class ChainingHashMap:
-    def __init__():
+    def __init__(self):
         pass
-    def hash_function():
+    def hash_function(self):
         pass
     def __getitem__(self):
         pass
