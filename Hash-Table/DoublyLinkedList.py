@@ -37,6 +37,14 @@ class DoublyLinkedList:
         self.head.next = self.head.next.next
         return data
 
+    def delete_node(self, node):
+        pred = node.prev
+        succ = node.next
+        pred.next = succ
+        succ.prev = pred
+        data = node.data
+        return data
+
     def __iter__(self):
         node = self.head.next
         while node is not self.trail:
