@@ -108,7 +108,7 @@
                 <td>O(n)</td>
             </tr>
             <tr height="40">
-                <td><a href="Heap/Heap.py">Heap</a></td>
+                <td><a href="Heap/MinHeap.py">Heap</a></td>
                 <td>Θ(1)</td>
                 <td>&nbsp;</td>
                 <td>Θ(logn)</td>
