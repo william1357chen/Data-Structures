@@ -1,4 +1,4 @@
-class ArrayQueue:
+git uclass ArrayQueue:
     INITIAL_CAPACITY = 2
     
     def __init__(self):

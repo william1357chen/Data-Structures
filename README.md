@@ -72,7 +72,7 @@
                 <td>O(n)</td>
             </tr>
             <tr height="40">
-                <td><a href="LinkedList/doubly_linked_list.py">Linked List</a></td>
+                <td><a href="LinkedList/DoublyLinkedList.py">Linked List</a></td>
                 <td>Θ(n)</td>
                 <td>Θ(n)</td>
                 <td>Θ(1)</td>
@@ -84,7 +84,7 @@
                 <td>O(n)</td>
             </tr>
             <tr height="40">
-                <td><a href="Hash-Table/hash_map.py">Hash Table</a></td>
+                <td><a href="Hash-Table/HashMap.py">Hash Table</a></td>
                 <td>&nbsp;</td>
                 <td>Θ(1)</td>
                 <td>Θ(1)</td>
@@ -96,7 +96,7 @@
                 <td>O(n)</td>
             </tr>
             <tr height="40">
-                <td><a href="Binary-Search-Tree/binary_search_tree.py">Binary Search Tree</a></td>
+                <td><a href="Binary-Search-Tree/BinarySearchTree.py">Binary Search Tree</a></td>
                 <td>Θ(logn)</td>
                 <td>Θ(logn)</td>
                 <td>Θ(logn)</td>
@@ -108,7 +108,7 @@
                 <td>O(n)</td>
             </tr>
             <tr height="40">
-                <td><a href="Heap/heap.py">Heap</a></td>
+                <td><a href="Heap/Heap.py">Heap</a></td>
                 <td>Θ(1)</td>
                 <td>&nbsp;</td>
                 <td>Θ(logn)</td>
